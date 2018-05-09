@@ -13,7 +13,7 @@ Setup site layout
 Build site
 
 Make logon sequence
-\\\ Make LUA/Terms and Conditions before logging in.
+\\\ Make EULA/Terms and Conditions before logging in.
 
 Add console log, feat. the input from login.
 
